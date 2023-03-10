@@ -26,7 +26,7 @@ int main()
         printf("%d \n", array[i]);
     }
     
-    printf("\n);
+    printf("\n");
     
     tamanho = 10;
     array=(int*)realloc(array, tamanho*sizeof(int)); //realocacao
