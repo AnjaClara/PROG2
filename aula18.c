@@ -31,7 +31,7 @@ int main(){
         printf("%d ", arr[i]);
     }
     
-    printf(\"n");
+    printf("\n");
     
     insertionSort(arr, n);
     
